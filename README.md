@@ -9,7 +9,7 @@
 
 - My Portfolio [https://mohammedshadid.site/](https://mohammedshadid.site/)
 
-- 📫 How to reach me **mohadisamshadid@gmail.com**
+- How to reach me **mohadisamshadid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
