@@ -7,6 +7,8 @@
 
 - My MERN Project [FitSquad](https://github.com/mohadshadid/FitSquad)
 
+- My Dentist Project [Dentist](https://github.com/mohadshadid/Dentist)
+
 - My Portfolio [https://mohammedshadid.site/](https://mohammedshadid.site/)
 
 - How to reach me **mohadisamshadid@gmail.com**
